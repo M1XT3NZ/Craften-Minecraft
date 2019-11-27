@@ -1,0 +1,21 @@
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Craften Minecraft.exe.config
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Craften Minecraft.exe
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Craften Minecraft.pdb
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften Minecraft.csprojAssemblyReference.cache
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften_Minecraft.Properties.Resources.resources
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften Minecraft.csproj.GenerateResource.cache
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften Minecraft.exe
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften Minecraft.pdb
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\CmlLib.dll
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\DotNetZip.dll
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Newtonsoft.Json.dll
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\DotNetZip.xml
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Newtonsoft.Json.pdb
+D:\dev\Craften Minecraft\Craften Minecraft\bin\Release\Newtonsoft.Json.xml
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften_Minecraft.MCLogin.resources
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften Minecraft.csproj.CopyComplete
+C:\Users\Michael\Desktop\Craften-Minecraft\Release\Craften Minecraft.exe.config
+C:\Users\Michael\Desktop\Craften-Minecraft\Release\Craften Minecraft.exe
+C:\Users\Michael\Desktop\Craften-Minecraft\Release\Craften Minecraft.pdb
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften_Minecraft.Launcher.resources
+D:\dev\Craften Minecraft\Craften Minecraft\obj\Release\Craften_Minecraft.Main.resources
